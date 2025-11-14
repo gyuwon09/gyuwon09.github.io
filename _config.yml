@@ -102,7 +102,7 @@ avatar: "https://cdn.discordapp.com/attachments/1239952544063819829/143700671324
 
 # The URL of the site-wide social preview image used in SEO `og:image` meta tag.
 # It can be overridden by a customized `page.image` in front matter.
-social_preview_image: "https://cdn.discordapp.com/attachments/1239952544063819829/1437017396996214915/e3ac3840b981c609.png?ex=6911b63d&is=691064bd&hm=3f8befee6e8f9d48d3efb2b533f811c7846d25e91222da7868f30cc0c3fee768&"
+social_preview_image: "https://cdn.discordapp.com/attachments/1437051007111663717/1437095501093797928/blog_img.png?ex=6911fefb&is=6910ad7b&hm=cadfb7d2a2ab236daa9d7f2585db199a9b025153d7192943ce6bca7999a54f6e&"
 
 # boolean type, the global switch for TOC in posts.
 toc: true
