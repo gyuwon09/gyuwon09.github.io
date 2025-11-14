@@ -1,5 +1,5 @@
 ---
-title: "Shingalism"
+title: "동아리부스속 작은 포토이즘 [ Shingalism ]"
 date: 2025-11-09 10:39:13
 categories: [program]
 tag: [program]
