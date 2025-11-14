@@ -98,11 +98,11 @@ theme_mode: # [light | dark]
 cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar: "https://cdn.discordapp.com/attachments/1239952544063819829/1437006713248284704/400752256f5dd419.jpg?ex=6911ac4a&is=69105aca&hm=c181d2e6f477184369251c4d225c35d2461d1d316335f647f8b073b50937908c&"
+avatar: r"img\avatar.png"
 
 # The URL of the site-wide social preview image used in SEO `og:image` meta tag.
 # It can be overridden by a customized `page.image` in front matter.
-social_preview_image: "https://cdn.discordapp.com/attachments/1437051007111663717/1437095501093797928/blog_img.png?ex=6911fefb&is=6910ad7b&hm=cadfb7d2a2ab236daa9d7f2585db199a9b025153d7192943ce6bca7999a54f6e&"
+social_preview_image: r"img\preview.png"
 
 # boolean type, the global switch for TOC in posts.
 toc: true
