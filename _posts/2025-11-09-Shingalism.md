@@ -16,7 +16,7 @@ tag: [program]
 # 홈
 프로그램의 시작을 알리는 화면입니다. 특별한 기능은 없기때문에 넘어가겠습니다.<br>
 프로그램에서는 스페이스바를 눌러 넘어갈 수 있습니다.
-<img src="https://cdn.discordapp.com/attachments/1437051007111663717/1437051643706343474/main.png?ex=6911d622&is=691084a2&hm=420a998f34a8241e90b8f895ff670b5943214796dcfc589f64b8c29bf713c6e8&" alt="홈 화면 이미지">
+<img src="/assets/img/main.png" alt="홈 화면 이미지">
 
 # 프레임 선택
 사진의 테두리가 될 프레임을 선택합니다. 일반프레임과 특별히 제작한 교사 7분의 프레임을 적용하였습니다.<br>
@@ -25,7 +25,7 @@ tag: [program]
 우측 원모양 이미지를 선택할 경우 테두리가 붉게 변하며 선택되고,<br>
 선택된 이미지에 따라 좌측 프레임이 변경됩니다.
 
-<img src="https://cdn.discordapp.com/attachments/1437051007111663717/1437053538277785651/select_frame.png?ex=6911d7e6&is=69108666&hm=10dbea7b1cc7e4f8f0adc87f7def63b262bd3039254117a10a9f4d8f0b784680&" alt="프레임 선택 화면 이미지">
+<img src="/assets/img/select frame.png" alt="프레임 선택 화면 이미지">
 
 원형 이미지는 다음과 같은 병렬 구조로 저장됩니다. 또한 이미지 파일이 존재하지 않으면 검은 색으로 대체됩니다.
 
@@ -95,7 +95,7 @@ def take_picture(frame):
     countdown_index = 0
 ```
 
-<img src="https://cdn.discordapp.com/attachments/1437051007111663717/1437051646776578127/take_picture.png?ex=6911d623&is=691084a3&hm=d1276fa44ec68f0dbb7637b2db590a5fea0c2b0477b358ccda4bd5ae1c2f4d3a&" alt="사진 촬영 화면 이미지">
+<img src="/assets/img/take picture.png" alt="사진 촬영 화면 이미지">
 
 [!]카메라가 비활성화 되어있어 obs studio의 로고로 대체됐습니다.
 
@@ -105,7 +105,7 @@ def take_picture(frame):
 선택된 사진은 앞서 생성한 사진 저장 폴더에 selected폴더를 추가하여 별도로 백업합니다.<br>
 또한 리스트에 인덱스를 저장해서 최종 사진 제작에 활용됩니다.
 
-<img src="https://cdn.discordapp.com/attachments/1437051007111663717/1437051645799436348/select_image.png?ex=6911d623&is=691084a3&hm=668a2c118f9c6c6f55b1250358c1aa26b8f0c3acc3142dc7d1ef9a1bede54bc7&" alt="사진 선택 화면 이미지">
+<img src="/assets/img/select image.png" alt="사진 선택 화면 이미지">
 
 [!]카메라가 비활성화 되어있어 obs studio의 로고로 대체됐습니다.
 
@@ -152,7 +152,7 @@ def make_film(path1: str, path2: str, path3: str, path4: str, frame: str, index_
     print(f"'{output_file}' 파일이 생성되었습니다.")
 ```
 
-<img src="https://cdn.discordapp.com/attachments/1437051007111663717/1437051642896973864/last.png?ex=6911d622&is=691084a2&hm=1bc632c755bcc0913862665faaa39faf7074aa63dde6e192d72fb10272156ba6&" alt="종료 안내 화면 이미지">
+<img src="/assets/img/last.png" alt="종료 안내 화면 이미지">
 
 # 마무리
 이번 활동은 신갈고등학교 축제 "동아리 발표회"의 동아리 부스 운영을 위해 제작되었습니다.<br>
@@ -162,6 +162,3 @@ def make_film(path1: str, path2: str, path3: str, path4: str, frame: str, index_
 이번 활동은 기획, 구상, 제작 활동의 대부분을 담당하여 프로그램을 완성한 만큼 의미있는 활동이였던 것 같습니다.<br>
 다만, 프로그램을 수정하는데 어려움을 겪었던 만큼 유지보수를 고려하여<br>
 프로그램의 외적인 부분뿐 아니라 프로그램의 내적인 부분, 클린 코드를 작성려는 노력이 더욱 필요해보입니다.
-
-<b>최종 이미지</b>
-<img src="https://cdn.discordapp.com/attachments/1437051007111663717/1437079415518662666/11_2025_12_58_34.png?ex=6911f000&is=69109e80&hm=8b96e5ee84f1894dfa15e2002712853f67819c32583298f1407424f77c2eb23f&" alt="최종 이미지">
