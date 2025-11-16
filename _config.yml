@@ -16,7 +16,7 @@ timezone:
 
 title: 규원 # the main title
 
-tagline: 고등학생의 개발 블로그 # it will display as the subtitle
+tagline: 낮에는 학생, 밤에는 개발자 # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
   프로그래머를 지망하며, 인공지능을 공부하고싶은 개발 꿈나무
@@ -38,8 +38,8 @@ social:
   email: krsoup09@gmail.com # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    - https://twitter.com/username # change to your Twitter homepage
     - https://github.com/gyuwon09 # change to your GitHub homepage
+    - https://instagram.com/gwon._09/
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
     # - https://www.linkedin.com/in/username
@@ -162,7 +162,7 @@ kramdown:
       line_numbers: true
       start_line: 1
 
-collections:
+collections:  
   tabs:
     output: true
     sort_by: order
