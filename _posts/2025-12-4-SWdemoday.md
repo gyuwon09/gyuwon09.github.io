@@ -45,7 +45,7 @@ tag: [contest]
 또한 관광지 평가의 객관성을 높이기 위해 **한국 관광 데이터랩 전국 주요 관광 현황 지도**와  
 **관광지식정보시스템 국내관광통계** 등의 공공 관광 데이터를 함께 활용했습니다.
 
-<img src="/assets/img/NUBIDA_home.png" alt="홈 화면 이미지">
+<img src="/assets/img/NUBIDA_home.png" alt="홈 화면 이미지" width="60%">
 
 ### AI 여행 일정 생성기
 사용자의 여행 선호도를 설문 형태로 수집·분석하여 개인의 여행 유형을 도출합니다.<br>
@@ -59,7 +59,7 @@ tag: [contest]
 또한 사용자의 일정 생성 기록과 업로드한 여행 데이터를 기반으로 **퍼셉트론 기반 분류 함수**를 적용하여 사용자를 5가지 여행 유형으로 분류합니다.<br>
 이 분류 결과는 이후 개인 맞춤형 여행지 추천과 체험형 일자리 매칭의 정확도를 높이는 데 활용됩니다.
 
-<img src="/assets/img/image2.png" alt="개인 유형별 관광지 및 일자리 추천 알고지즘 예시 이미지">
+<img src="/assets/img/image2.png" alt="개인 유형별 관광지 및 일자리 추천 알고지즘 예시 이미지" width="60%">
 
 ### 일자리 탐색
 관광지 및 지역 행사와 연계된 **단기 일자리·체험형 일자리 매칭 기능**을 제공합니다.<br>
@@ -70,9 +70,9 @@ tag: [contest]
 일자리 공고는 별도의 **일자리 탐색 대시보드 웹사이트**를 통해 등록·관리할 수 있습니다.<br>
 관리자는 공고 등록, 수정, 삭제가 가능하며 지원자 정보 조회 기능을 통해 효율적인 인력 관리가 가능하도록 구현했습니다.
 
-<img src="/assets/img/NUBIDA_job.png" alt="일자리 화면 이미지">
-<img src="/assets/img/dashboard.png" alt="일자리 대쉬보드 화면 이미지">
-<img src="/assets/img/dashboard_add.png" alt="일자리 대쉬보드 화면 이미지">
+<img src="/assets/img/NUBIDA_job.png" alt="일자리 화면 이미지" width="60%">
+<img src="/assets/img/dashboard.png" alt="일자리 대쉬보드 화면 이미지" width="60%">
+<img src="/assets/img/dashboard_add.png" alt="일자리 대쉬보드 화면 이미지" width="60%">
 
 ## 기능 구현
 
