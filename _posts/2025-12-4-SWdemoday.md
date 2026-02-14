@@ -6,8 +6,8 @@ tag: [contest]
 ---
 
 <b>비인기관광지 여행 유도하는 관광 일정 SNS • 일자리 플랫폼 "누비다"</b><br>
-2025 청소년 SW동행 데모데이 장려상(한국과학창의재단 이사장상) 수상
-(과학기술정보통신부 주최/ 한국과학창의재단 주관)
+2025 청소년 SW동행 데모데이 장려상(한국과학창의재단 이사장상) 수상<br>
+(과학기술정보통신부 주최/ 한국과학창의재단 주관)<br>
 <a href="https://www.kosac.re.kr/menus/270/boards/386/posts/40721?page=1&searchField=all&searchText=%EB%8D%B0%EB%AA%A8%EB%8D%B0%EC%9D%B4">수상 조회</a>
 
 ## 프로젝트 개요
