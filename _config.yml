@@ -16,10 +16,10 @@ timezone:
 
 title: 규원 # the main title
 
-tagline: 낮에는 학생, 밤에는 개발자 # it will display as the subtitle
+tagline: 개발 블로그 # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
-  프로그래머를 지망하며, 인공지능을 공부하고싶은 개발 꿈나무
+  안녕하세요, 황규원입니다 :)
 
 # Fill in the protocol & hostname for your site.
 # E.g. 'https://username.github.io', note that it does not end with a '/'.
