@@ -20,7 +20,7 @@ Windows 환경에서 실행 가능하도록 <b>Python</b>과 <b>Flet</b> 라이�
 
 ## 기술 스택
 
-- **Language**: Python 3.11 
+- **Language**: Python 3.11
 - **UI Framework**: Flet  
 - **Speech-to-Text**: Google Cloud Speech-to-Text API  
 - **Text Post-processing & Summarization**: OpenAI API  
