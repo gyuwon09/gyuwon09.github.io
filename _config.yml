@@ -97,7 +97,7 @@ theme_mode: # [light | dark]
 # e.g. 'https://cdn.com'
 cdn:
 
-avatar: /assets/img/selfie2.png
+avatar: /assets/img/selfie3.png
 social_preview_image: /assets/img/preview.png
 
 # boolean type, the global switch for TOC in posts.
