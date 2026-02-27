@@ -12,7 +12,7 @@ order: 4
 - GEEKs 운영사무국원
 
 ## 2009년생 개발자, 규원
-신갈고등학교에 재학 중인 1학년 황규원입니다.<br>
+신갈고등학교에 재학 중인 2학년 황규원입니다.<br>
 2021년 파이썬 공부를 시작으로, 
 수년간 Python을 중심으로 C, ReactJS, React Native, Lua, JavaScript, Rust 등 다양한 언어와 기술을 경험해 왔습니다.<br>
 
