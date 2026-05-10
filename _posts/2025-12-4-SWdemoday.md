@@ -2,7 +2,7 @@
 title: "2025 청소년 SW동행 데모데이[수상] - 투어리스트 팀"
 date: 2026-01-12 04:03:53
 categories: [contest]
-tag: [contest]
+tags: [contest, program, python, react, web, LLM]
 ---
 
 <b>비인기관광지 여행 유도하는 관광 일정 SNS • 일자리 플랫폼 "누비다"</b><br>

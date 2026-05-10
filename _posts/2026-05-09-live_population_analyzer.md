@@ -1,8 +1,8 @@
 ---
 title: "YOLO기반 실시간 혼잡도 분석기"
-date: 2026-05-10 22:09:12
+date: 2026-05-10 22:22:34
 categories: [program]
-tag: [program]
+tags: [program, yolo, python, opencv, ai, school, app]
 ---
 
 Opencv 및 NumPy와 YOLO 모델을 활용하여 제작한 혼잡도 분석 프로그램입니다.<br>

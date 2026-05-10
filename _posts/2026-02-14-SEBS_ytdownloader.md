@@ -1,8 +1,8 @@
 ---
 title: "SEBS(신갈고교 방송부) 유튜브 영상 무손실 다운로더"
-date: 2026-02-08 04:03:53
+date: 2026-02-08 04:23:42
 categories: [program]
-tag: [program]
+tags: [program, python, gui, school, app]
 ---
 유튜브 영상을 최대 4k까지 무손실로 다운로드할 수 있는 프로그램
 
