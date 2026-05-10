@@ -2,7 +2,7 @@
 title: "Random Forest 모델을 이용한 붓꽃(Iris) 분류 탐구"
 date: 2026-02-17 20:27:13
 categories: [Research]
-tag: [Research]
+tags: [Research, data-science, machine-learning]
 ---
 scikit-learn 머신러닝 라이브러리를 활용하여
 머신러닝의 대표적인 문제인 붓꽃 분류에 대해 탐구해보았습니다.

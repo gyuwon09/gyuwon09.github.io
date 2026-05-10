@@ -2,7 +2,7 @@
 title: "Geeks Networking Party(GNP 2026)"
 date: 2026-01-22 00:15:32
 categories: [Event]
-tag: [Event]
+tags: [Event, Geeks]
 ---
 
 안녕하세요, GNP 2026 행사의<br>

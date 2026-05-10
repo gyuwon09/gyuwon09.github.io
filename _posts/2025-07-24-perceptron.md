@@ -2,7 +2,7 @@
 title: "인공지능의 윤리적 선택 유도 실험"
 date: 2025-07-24 11:12:32
 categories: [Research]
-tag: [Research]
+tags: [Research, python]
 ---
 
   과학기술의 발전으로 인공지능의 활용성은 높아졌으며, 인공지능의 판단이 군사적 목적으로까지 활용되는 시대가 다가왔다.
