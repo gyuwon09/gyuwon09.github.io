@@ -31,3 +31,5 @@ YOLOv8과 ByteTrack을 활용하여 영상 내 사람 객체를 실시간으로 
 또한 객체별 Tracking ID를 유지하여 동일 인물을 지속적으로 추적할 수 있도록 구성했습니다.
 
 OpenCV를 이용해 Detection 결과와 상태 정보를 시각화했으며, FPS 측정을 통해 실시간 처리 성능도 함께 확인할 수 있도록 구현했습니다.
+
+<img src="/assets/img/live_population_analyzer.png" alt="실행 예시 화면" width="60%">
