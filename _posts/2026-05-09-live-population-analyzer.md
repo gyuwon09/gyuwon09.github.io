@@ -1,6 +1,6 @@
 ---
 title: "YOLO기반 실시간 혼잡도 분석기"
-date: 2026-05-09 20:08:27
+date: 2026-05-10 22:09:12
 categories: [program]
 tag: [program]
 ---
