@@ -1,6 +1,6 @@
 ---
 title: "YOLO기반 실시간 혼잡도 분석기"
-date: 2026-05-10 22:22:34
+date: 2026-05-10 22:22:34 +0900
 categories: [program]
 tags: [program, yolo, python, opencv, ai, school, app]
 ---
