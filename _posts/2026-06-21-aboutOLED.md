@@ -1,6 +1,6 @@
 ---
 title: "LCD에서 OLED로의 진화"
-date: 2026-06-21 23:51:21
+date: 2026-06-20 23:51:21
 categories: [Research]
 tags: [Research]
 ---
