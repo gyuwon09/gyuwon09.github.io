@@ -5,9 +5,13 @@ categories: [Research]
 tags: [Research, python, blender, science]
 ---
 
+## 기술 스택
+- **graphic**: Blender
+- **Language**: Python
+
 ### 시뮬레이션 영상
 
-<a href="https://youtu.be/KUrPt_SYcNQ">실험 영상</a>
+<a href="https://youtu.be/KUrPt_SYcNQ"> > 실험 영상</a>
 
 ## 특수상대성이론이란?
 
