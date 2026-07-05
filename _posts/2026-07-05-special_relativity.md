@@ -1,5 +1,5 @@
 ---
-title: "특수상대성이론 시각화(Blender, python)"
+title: "특수상대성이론 시각화"
 date: 2026-07-05 23:09:24
 categories: [Research]
 tags: [Research, python, blender, science]
