@@ -1,6 +1,6 @@
 ---
 title: "토지 맞춤형 작물 추천 서비스, 21세기 농사직설"
-date: 2026-07-05 23:09:24
+date: 2026-07-10 23:09:24
 categories: [Research]
 tags: [Research, python, blender, science]
 ---
