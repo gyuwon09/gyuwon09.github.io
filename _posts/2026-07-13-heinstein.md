@@ -2,10 +2,14 @@
 title: "토지 맞춤형 작물 추천 서비스, 21세기 농사직설"
 date: 2026-07-10 23:09:24
 categories: [Research]
-tags: [Research, python, blender, science]
+tags: [Research, python, blender, science, contest]
 ---
 
 ### 기후변화 시대, AI는 어떤 작물을 추천할 수 있을까?
+
+본 프로젝트는 청소년 올림피아드 하인슈타인을 위해 진행되었습니다.
+
+<a href="https://github.com/gyuwon09/21st-Century-NongsaJikseol">gyuwon09/21st-Century-NongsaJikseol</a>
 
 ## 문제에 대한 고민
 
@@ -45,18 +49,29 @@ tags: [Research, python, blender, science]
 - **AI/ML**: scikit-learn(RandomForest)
 - **Data/API**: Kaggle - Crop Recommendation Dataset, SoilGrid API, NASA POWER API
 
+---
+
+# 랜딩페이지
+
+서비스에 접속하면 가장 먼저 만나볼 수 있는 페이지입니다.
+
+프로젝트를 직관적으로 이해할 수 있도록 설명되어있습니다.
+
+<img src="assets\img\landing.png" alt="랜딩페이지 이미지" width="40%">
 
 ---
 
 # 위치 선택
 
-서비스에 접속하면 먼저 프로젝트의 목적과 주요 기능을 확인할 수 있습니다.
-
-이후 사용자는 지도에서 작물을 재배하고 싶은 위치를 선택합니다.
+사용자가 지도를 통해 원하는 지도를 선택할 수 있는 페이지입니다.
 
 지도에서 지점을 클릭하면 **위도와 경도**를 추출하고, 이를 기반으로 해당 지역의 환경 데이터를 활용합니다.
 
 또한 시가지나 수중 지역처럼 농업에 적합하지 않은 위치는 추천 대상에서 제외하도록 구성했습니다.
+
+지도를 위해 GoogleMap API가 활용되었으며, SoilGrid API와 호환되지 않는 시가지등 일부 지역은 응답 여부를 통해 추천 대상에서 제외하였습니다.
+
+<img src="assets\img\location.png" alt="위치 선택 페이지 이미지" width="40%">
 
 ---
 
@@ -79,13 +94,16 @@ tags: [Research, python, blender, science]
 
 라는 실제적인 질문에 답하는 것을 목표로 했습니다.
 
+SoilGrid API와 NASA POWER API를 통해 정보를 수집하였으며, Random Forest 모델을 활용하여 적합한 작물 추천 모델을 개발하였습니다.
+
+<img src="assets\img\resultpage.png" alt="결과 페이지 이미지" width="40%">
+
 ---
 
 # Random Forest를 활용한 추천
 
-작물 추천에는 **Random Forest 기반 다중 클래스 분류 모델**을 사용했습니다.
-
-Random Forest는 여러 개의 Decision Tree를 생성하고, 각각의 예측 결과를 종합하는 앙상블 학습 알고리즘입니다.
+Random Forest는 작물 추천에 활용된 **Random Forest 기반 다중 클래스 분류 모델**입니다.
+여러 개의 Decision Tree를 생성하고, 각각의 예측 결과를 종합하는 앙상블 학습 알고리즘입니다.
 
 이번 프로젝트에서는 다양한 환경 데이터를 입력받아 여러 작물 중 어떤 작물이 해당 지역에 적합한지를 분류하도록 모델을 구성했습니다.
 
