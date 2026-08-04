@@ -57,7 +57,7 @@ tags: [Research, python, blender, science, contest]
 
 프로젝트를 직관적으로 이해할 수 있도록 설명되어있습니다.
 
-<img src="assets\img\landing.png" alt="랜딩페이지 이미지" width="40%">
+<img src="/assets/img/landing.png" alt="랜딩페이지 이미지" width="40%">
 
 ---
 
@@ -71,7 +71,7 @@ tags: [Research, python, blender, science, contest]
 
 지도를 위해 GoogleMap API가 활용되었으며, SoilGrid API와 호환되지 않는 시가지등 일부 지역은 응답 여부를 통해 추천 대상에서 제외하였습니다.
 
-<img src="assets\img\location.png" alt="위치 선택 페이지 이미지" width="40%">
+<img src="/assets/img/location.png" alt="위치 선택 페이지 이미지" width="40%">
 
 ---
 
@@ -96,7 +96,7 @@ tags: [Research, python, blender, science, contest]
 
 SoilGrid API와 NASA POWER API를 통해 정보를 수집하였으며, Random Forest 모델을 활용하여 적합한 작물 추천 모델을 개발하였습니다.
 
-<img src="assets\img\resultpage.png" alt="결과 페이지 이미지" width="40%">
+<img src="/assets/img/resultpage.png" alt="결과 페이지 이미지" width="40%">
 
 ---
 
