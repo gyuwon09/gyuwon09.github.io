@@ -15,9 +15,9 @@ timezone: Asia/Seoul
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: gyuwon # the main title
+title: Hwang Gyuwon # the main title
 
-tagline: dev blog # it will display as the subtitle
+tagline: DEV blog # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
   Hello, I'm gyuwon
