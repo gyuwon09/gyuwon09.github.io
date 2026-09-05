@@ -15,12 +15,12 @@ timezone: Asia/Seoul
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: 규원 # the main title
+title: Hwang Gyuwon # the main title
 
-tagline: 개발 블로그 # it will display as the subtitle
+tagline: DEV blog # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
-  안녕하세요, 황규원입니다 :)
+  Hello, I'm gyuwon
 
 # Fill in the protocol & hostname for your site.
 # E.g. 'https://username.github.io', note that it does not end with a '/'.
