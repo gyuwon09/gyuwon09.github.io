@@ -10,7 +10,7 @@ order: 4
   - Aeru Cloud
   - Aeru IT
 - 3D 설계 및 디자인 프리랜서 활동(다이소, 못된 고양이, 아트박스등 판매 제품)
-- GEEKs 운영사무국
+- GEEKs 운영사무국(~26.11)
 - GNP 2026 오프라인 개발자 네트워킹 파티 운영 (110명 이상 참여)
 - GEEKs Hackerton 2026 오프라인 해커톤 운영 (50명 이상 참여)
 - 청소년 비영리 단체 [DOSIQ](https://dosiq.site/) 개발 팀장
